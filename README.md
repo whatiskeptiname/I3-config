@@ -1,4 +1,4 @@
-## i3-config
+# dotfiles
 
 Config file of i3 window manager with polybar.
 
